@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.2.10](https://github.com/YoloDev/rstml-component/compare/0.2.9..0.2.10) - 2026-01-15
+
+### 🔨 Chore
+
+- Updated the following local packages: rstml-component - ([0000000](https://github.com/YoloDev/rstml-component/commit/0000000))
+
+
 ## [0.2.9](https://github.com/YoloDev/rstml-component/compare/0.2.8..0.2.9) - 2024-09-18
 
 ### 🔨 Chore
